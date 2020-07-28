@@ -1,6 +1,6 @@
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
-<img align="right" width="300px" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/me.svg">
+<img align="right" width="300px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <a href="http://shubhbansal.tech/">
   <img align="left" alt="Website" width="20px" src="http://shubhbansal.tech/images/Profile.png" />
