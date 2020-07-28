@@ -1,4 +1,4 @@
-![bg](#000000)
+---?color=#000000
 
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
