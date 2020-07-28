@@ -1,4 +1,4 @@
----?color=#000000
+<div class="bg-gray-dark">
 
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
@@ -73,4 +73,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/proRamLOGO/count.svg" />
 </p>
-</body>
+</div>
