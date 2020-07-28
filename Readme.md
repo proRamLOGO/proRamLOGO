@@ -1,4 +1,4 @@
-<body bgcolor="#000">
+![bg](#000000)
 
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
