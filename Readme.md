@@ -1,3 +1,5 @@
+<body bgcolor="#000">
+
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
 <img align="right" width="300px" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
@@ -71,3 +73,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/proRamLOGO/count.svg" />
 </p>
+</body>
