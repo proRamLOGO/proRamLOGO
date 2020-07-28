@@ -12,7 +12,7 @@
   <img align="left" alt="itch.io" width="21px" src="https://pbs.twimg.com/profile_images/1278400799157161985/tAMX00cr_400x400.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/proram/">
-  <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/linkedin.png" />
+  <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/proram_logo/">
   <img align="left" alt="itch.io" width="21px" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/instagram.png" />
