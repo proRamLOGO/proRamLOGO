@@ -26,7 +26,7 @@
 <p> A passionate self-taught programmer/developer from India. </p>
 
 - 🔭 I’m currently working on my project [AutoMail](https://github.com/LOGOInd/AutoMail)
-- 🌱 I’m a Quantum Computing enthusiast.
+- 🌱 I’m a Sport Programmer and a Quantum Computing enthusiast.
 - 💬 Ask me about anything [here](https://github.com/proRamLOGO/proRamLOGO/issues)
 
 **Languages and Tools:**
