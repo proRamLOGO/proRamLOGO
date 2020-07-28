@@ -24,7 +24,7 @@
 <p> A passionate self-taught programmer/developer from India. </p>
 
 - 🔭 I’m currently working on my project [AutoMail](https://github.com/LOGOInd/AutoMail)
-- 🌱 I’m currently Quantum Computing.
+- 🌱 I’m a Quantum Computing enthusiast.
 - 💬 Ask me about anything [here](https://github.com/smrnjeet222/smrnjeet222/issues)
 
 **Languages and Tools:**
