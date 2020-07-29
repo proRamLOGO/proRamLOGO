@@ -42,6 +42,7 @@
 <code><img height="20" src="https://www.lukegerhardt.com/images/blog/vb6-code-stats-add-in/vb6.png" title="VB"></code>
 <code><img height="20" src="https://devstickers.com/assets/img/pro/k176.png" title="Photoshop"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" title="After Effects"></code>
+<code><img height="20" src="https://www.my3d.guru/wp-content/uploads/2016/10/123d-design-logo.png" title="123D Design"></code>
 
 <br />
 
