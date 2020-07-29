@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
 
-<img align="right" width="300px" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" width="300px" src="http://shubhbansal.tech/images/Profile.png">
 
 <a href="http://shubhbansal.tech/">
   <img align="left" alt="Website" width="20px" src="http://shubhbansal.tech/images/Profile.png" />
