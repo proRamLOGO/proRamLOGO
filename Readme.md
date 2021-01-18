@@ -11,7 +11,7 @@
   <img align="left" alt="Codeforces" width="21px" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1" />
 </a>
 <a href="https://www.codechef.com/users/proram">
-  <img align="left" alt="itch.io" width="21px" src="https://pbs.twimg.com/profile_images/1278400799157161985/tAMX00cr_400x400.jpg" />
+  <img align="left" alt="itch.io" width="21px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGpkXWILxhBnQ/company-logo_200_200/0/1610013549032?e=2159024400&v=beta&t=PqkD1WrJ4OS9h003q-YpLUrU6JJQo_2ZPbA9IvQKLEM" />
 </a>
 <a href="https://www.linkedin.com/in/proram/">
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
