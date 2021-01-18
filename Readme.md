@@ -1,11 +1,11 @@
 <div class="bg-gray-dark">
 
-### Hi there, I'm [proRam!](http://shubhbansal.tech/) 👋
+### Hi there, I'm [proRam!](http://proramlogo.github.io/) 👋
 
-<img align="right" width="300px" src="http://shubhbansal.tech/images/Profile.png">
+<img align="right" width="300px" src="./meicon.png">
 
-<a href="http://shubhbansal.tech/">
-  <img align="left" alt="Website" width="20px" src="http://shubhbansal.tech/images/Profile.png" />
+<a href="http://proramlogo.github.io/">
+  <img align="left" alt="Website" width="20px" src="./meicon.png" />
 </a>
 <a href="https://codeforces.com/profile/proRam">
   <img align="left" alt="Codeforces" width="21px" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1" />
