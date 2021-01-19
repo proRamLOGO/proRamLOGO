@@ -40,14 +40,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/python.png" title="Python"></code>
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" title="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/javascript.png" title="Javascript"></code>
+<code><img height="20" src="https://miro.medium.com/max/2000/1*teK4yjRXfJ5IBavrQueB6g.png" title="ReactJs"></code>
+<code><img height="20" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/qiskit.png?itok=5ZcrbBFA" title="Qiskit"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/git.png" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/vscode.png" title="VSCode"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/mysql.svg" title="Databases"></code>
 <code><img height="20" src="https://www.programmingcodex.com/blog/wp-content/uploads/2020/02/99cd34a1082d424c93463878b7d88a8a.png" title="OOPs"></code>
 <code><img height="20" src="https://www.lukegerhardt.com/images/blog/vb6-code-stats-add-in/vb6.png" title="VB"></code>
 <code><img height="20" src="https://devstickers.com/assets/img/pro/k176.png" title="Photoshop"></code>
-<code><img height="20" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" title="After Effects"></code>
-<code><img height="20" src="https://www.my3d.guru/wp-content/uploads/2016/10/123d-design-logo.png" title="123D Design"></code>
 
 <br />
 
