@@ -30,7 +30,7 @@
 
 <p> A passionate self-taught programmer/developer from India. </p>
 
-- 🔭 I’m currently working on my project [Seam Carver](https://github.com/proRamLOGO/seam-carver)
+- 🔭 I’m currently working on my project [Business Cards Manager](https://proramlogo.github.io/business-cards-manager/)
 - 🌱 I’m a Sport Programmer and a Quantum Computing enthusiast.
 - 💬 Ask me about anything [here](https://github.com/proRamLOGO/proRamLOGO/issues)
 
