@@ -30,7 +30,7 @@
 
 <p> A passionate self-taught programmer/developer from India. </p>
 
-- 🔭 I’m currently working on my project [Business Cards Manager](https://proramlogo.github.io/business-cards-manager/)
+- 🔭 I’m currently working on my project [Whatsapp Backup Parser](https://github.com/proRamLOGO/whatsapp-backup-parser)
 - 🌱 I’m a Sport Programmer and a Quantum Computing enthusiast.
 - 💬 Ask me about anything [here](https://github.com/proRamLOGO/proRamLOGO/issues)
 
@@ -45,7 +45,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/git.png" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/vscode.png" title="VSCode"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/proRamLOGO/proRamLOGO/master/assets/mysql.svg" title="Databases"></code>
-<code><img height="20" src="https://www.programmingcodex.com/blog/wp-content/uploads/2020/02/99cd34a1082d424c93463878b7d88a8a.png" title="OOPs"></code>
 <code><img height="20" src="https://www.lukegerhardt.com/images/blog/vb6-code-stats-add-in/vb6.png" title="VB"></code>
 <code><img height="20" src="https://devstickers.com/assets/img/pro/k176.png" title="Photoshop"></code>
 
